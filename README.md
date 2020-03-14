@@ -1,6 +1,6 @@
 # Welcome to Insta Scrape
 
-Insta Scrape is a simple script adopted from code written by [tikseniia](https://github.com/tikseniia/get-location-instagram/blob/master/script.py) in order to scrape location data from Instagram without the need for an API key.
+Insta Scrape is a simple script adopted from [tikseniia](https://github.com/tikseniia/get-location-instagram/blob/master/script.py) in order to scrape location data from Instagram without the need for an API key.
 
 Insta Scrape currently sits in Jupyter Notebook for ease of debugging and sharing with team members.
 
@@ -27,4 +27,4 @@ This should create two new files:
   - insta_posts.json
   - location_data.json
 
-Additionally, you can edit and rerun your code by clicking on `Kernel` then selecting `Restart & Run All` from the drop down menu. Or run individual blocks by selecting that block and clicking the `Run` button. 
+Additionally, you can edit and rerun your code by clicking on `Kernel` then selecting `Restart & Run All` from the drop down menu. Or run individual blocks by selecting that block and clicking the `Run` button.
