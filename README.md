@@ -51,5 +51,11 @@ https://flask-mysqldb.readthedocs.io/en/latest/
 
 https://www.google.com/search?q=how+to+use+flask-mysqldb&oq=how+to+use+flask-mysqldb&aqs=chrome..69i57j0.7153j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_giujXsZLx9u0Bq3eu8gI34
 
-### Helpful Tutorial on Flask Applications
+MySQL database
+username: pyfast2020
+password: PyFast2020!!!
+
+### Useful Links
+http://docs.astropy.org/en/stable/visualization/histogram.html
+https://kb.objectrocket.com/postgresql/insert-json-data-into-postgresql-using-python-part-2-1248
 https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework
