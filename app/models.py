@@ -1,10 +1,16 @@
 from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
+from app import app
+from flask import render_template
+# from flask_sqlalchemy import SQLAlchemy
+# from flask_migrate import Migrate
 
+# app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres:postgres@localhost:5432/insta_scraper"
+# app.config['SQLAlCHEMY_TRACK_MODIFICATIONS'] = False
 
-app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'
-db = SQLAlchemy(app)
+# app = Fask(__name__)
+# db = SQLAlchemy(app)
+
+# migrate = Migrate(app, db)
 
 class Post(db.Model):
     __tablename__ = 'posts'
