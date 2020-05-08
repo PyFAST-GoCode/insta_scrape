@@ -44,17 +44,6 @@ app/__init__.py: This file intializes a Python module. Without it, Python will n
 app/views.py: This file contains all the routes for our application. This will tell Flask what to display on which path.
 app/models.py: This is where the models are defined. A model is a representation of a database table in code. However, because we will not be using a database in this tutorial, we won't be needing this file.
 
-### Database Configuration
-Database hosted here => https://www.freemysqlhosting.net/
-
-https://flask-mysqldb.readthedocs.io/en/latest/
-
-https://www.google.com/search?q=how+to+use+flask-mysqldb&oq=how+to+use+flask-mysqldb&aqs=chrome..69i57j0.7153j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_giujXsZLx9u0Bq3eu8gI34
-
-MySQL database
-username: pyfast2020
-password: PyFast2020!!!
-
 ### Useful Links
 http://docs.astropy.org/en/stable/visualization/histogram.html
 https://kb.objectrocket.com/postgresql/insert-json-data-into-postgresql-using-python-part-2-1248
